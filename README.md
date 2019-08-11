@@ -1,3 +1,3 @@
-# itoolos
-Full Scene Operating Systems
+# itoolos Operating System
+itoolos is designed for: smartphone, labtop, tablet and more.
 
