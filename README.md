@@ -1,2 +1,1 @@
-# itoolos 
-# Full Scene Operating Systems - （Product of iToolBox Technology Limited）
+# itoolos - Full Scene Operating Systems
