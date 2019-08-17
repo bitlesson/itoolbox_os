@@ -3,10 +3,6 @@
     width: 100%;
     max-width: 1024px;
 }
-.button1 img {
-    width: 100%;
-    height: auto;
-}
 .button1 .btn {
     position: absolute;
     top: 50%;
@@ -14,9 +10,9 @@
     text-align: center;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
-    background-color: whitesmoke;
+    background-color: rgba(247, 226, 226, 0.88);
     color: black;
-    font-size: 99px;
+    font-size: 119px;
     padding: 18px 32px;
     border: none;
     border-radius: 6px;
